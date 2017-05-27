@@ -1,0 +1,2 @@
+# git_seminar_170527
+git_seminar_by_dongmin
